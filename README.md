@@ -25,35 +25,6 @@ My GitHub showcases my growth from exploratory projects to production-ready AI p
 
 2025 (Now): Focused on MLOps and agentic AI, building scalable AI pipelines with AWS, CI/CD, and cloud orchestration. Exploring autonomous AI systems that reason, plan, and act to solve complex problems.
 
-## 🛠️ Featured Projects
-
-These projects highlight my evolution from ML fundamentals to advanced LLMs and deployment, blending creativity with technical rigor:
-
-
-- **Fine-Tuned LLaMA 2 for Multi-Class Classification**
-  
-Fine-tuned LLaMA 2 on a curated dataset with a custom training loop for multi-class classification, pushing the boundaries of LLMs.
-Tech Stack: Hugging Face Transformers, PyTorch, Datasets
-
-
-- **Digit Classification with ANNs**
-  
-Built a neural network to classify handwritten digits, laying the foundation for my ML journey. Focused on preprocessing, model design, and evaluation.
-Tech Stack: TensorFlow, NumPy, Matplotlib
-
-
-
-- **eCommerce Product Recommendation Engine**
-  
-Created a recommendation system using Sentence Transformers for product embeddings and Elasticsearch for scalable search, inspired by real-world eCommerce challenges.
-Tech Stack: Sentence Transformers, Elasticsearch, Flask
-
-
-
-- **Fake News Detection Pipeline**
-  
-Developed a transformer-based pipeline with Hugging Face Transformers and a custom ANN to detect fake news, tackling misinformation creatively.
-Tech Stack: Hugging Face Transformers, TensorFlow, Pandas
 
 ## 🔍 Current Focus
 
