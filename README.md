@@ -5,26 +5,6 @@ I'm a third-year B.Tech student from India, passionate about crafting impactful 
 
 My GitHub showcases my growth from exploratory projects to production-ready AI pipelines, and I’m eager to contribute to internships or collaborations in AI/ML, MLOps, or agentic workflows.
 
-## 🚀 My Journey
-
-
-
-
-
-2023: Began with web development, building responsive websites with HTML, CSS, and JavaScript. Discovered AI/ML and was hooked by its potential to solve real-world problems creatively.
-
-
-
-2024: Dove into classical ML, starting with a digit classifier using Artificial Neural Networks (ANNs). Explored TensorFlow and scikit-learn to tackle data-driven challenges.
-
-
-
-2025: Transitioned to deep learning and recommendation systems, creating an eCommerce product recommendation engine. Embraced transformers with projects like fake news detection and fine-tuning LLaMA 2.
-
-
-
-2025 (Now): Focused on MLOps and agentic AI, building scalable AI pipelines with AWS, CI/CD, and cloud orchestration. Exploring autonomous AI systems that reason, plan, and act to solve complex problems.
-
 
 ## 🔍 Current Focus
 
