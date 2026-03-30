@@ -1,13 +1,23 @@
-<!-- HEADER -->
+<!-- FOREST HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B8F71,100:A3B18A&height=180&section=header&text=Charu%20Pathak&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B8F71,100:A3B18A&height=200&section=header&text=Charu%20Pathak&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
+<!-- SUBTITLE -->
+<h3 align="center">
+  🌿 Data • Systems • Decisions
+</h3>
+
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=800&color=8FBC8F&center=true&vCenter=true&width=800&lines=Data+→+Insight+→+Decisions;Analytics+%7C+Machine+Learning+%7C+NLP;Building+systems+that+actually+work" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=900&color=8FBC8F&center=true&vCenter=true&width=750&lines=Turning+data+into+something+useful;Analytics+%7C+Machine+Learning+%7C+NLP;Building+systems+that+actually+work" />
 </p>
 
----
+<!-- DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6B8F71,100:A3B18A&height=2&section=header"/>
+</p>
+
 
 ## 🌿 about
 
@@ -18,39 +28,119 @@ data analyst + ml practitioner
 → built systems across NLP, recommendations, forecasting  
 → focus: turning raw data into usable decision systems  
 ```
+---
+
+## 🌊 contribution activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ch4ru&bg_color=0d1117&color=8FBC8F&line=A3B18A&point=6B8F71&hide_border=true&cache_seconds=10" />
+</p>
+---
+
+## 🌿 how i work with data
+
+```text
+          ┌──────────────┐
+          │   raw data   │
+          └──────┬───────┘
+                 ↓
+        ┌──────────────────┐
+        │ data cleaning &  │
+        │ transformation   │
+        └──────┬───────────┘
+               ↓
+        ┌──────────────────┐
+        │  exploration &   │
+        │   analytics      │
+        └──────┬───────────┘
+               ↓
+        ┌──────────────────┐
+        │  modeling & ML   │
+        └──────┬───────────┘
+               ↓
+        ┌──────────────────┐
+        │  deployment &    │
+        │  decision layer  │
+        └──────────────────┘
+```
 
 ---
 
-## 🌳 tech stack
+## 🌳 the stack behind it
 
-### 🍃 core
+### 🧾 data layer
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,git,github" />
+  <img src="https://img.shields.io/badge/SQL-6B8F71?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BigQuery-A3B18A?style=for-the-badge"/>
 </p>
 
-### 🌿 data & ML
+---
+
+### 🧹 processing layer
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-6B8F71?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-A3B18A?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-6B8F71?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-A3B18A?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-6B8F71?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NumPy-A3B18A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Cleaning-8FBC8F?style=for-the-badge"/>
 </p>
 
-### 🍂 NLP & systems
+---
+
+### 📊 analysis layer
 <p align="center">
+  <img src="https://img.shields.io/badge/EDA-6B8F71?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Statistics-A3B18A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tableau-8FBC8F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PowerBI-6B8F71?style=for-the-badge"/>
+</p>
+
+---
+
+### 🤖 modeling layer
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-6B8F71?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Feature%20Engineering-A3B18A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Model%20Evaluation-8FBC8F?style=for-the-badge"/>
+</p>
+
+---
+
+### 🌲 deep learning & NLP
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-6B8F71?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Transformers-A3B18A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/HuggingFace-8FBC8F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Sentence%20Transformers-6B8F71?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-A3B18A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-6B8F71?style=for-the-badge"/>
 </p>
 
-### 🌾 analytics & tools
+---
+
+### 🔍 search & intelligence
 <p align="center">
-  <img src="https://img.shields.io/badge/Tableau-6B8F71?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PowerBI-A3B18A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Excel-8FBC8F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Streamlit-A3B18A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-A3B18A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Semantic%20Search-6B8F71?style=for-the-badge"/>
+</p>
+
+---
+
+### 🚀 deployment layer
+<p align="center">
   <img src="https://img.shields.io/badge/Flask-6B8F71?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Streamlit-A3B18A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/APIs-8FBC8F?style=for-the-badge"/>
+</p>
+
+---
+
+### 🕸️ data collection
+<p align="center">
+  <img src="https://img.shields.io/badge/BeautifulSoup-6B8F71?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Selenium-A3B18A?style=for-the-badge"/>
+</p>
+
+---
+
+### ⚙️ system foundation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github" />
 </p>
 
 ---
@@ -68,18 +158,35 @@ data analyst + ml practitioner
 
 ---
 
-## 🐍 contribution flow
-
+### 🧬 contribution snake (dramatic but effective)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ch4ru/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 🌊 contribution activity
+## 🌿 skill focus
+
+```text
+ML / NLP        ███████░░
+Data Analysis   █████████
+Visualization   ███████░░
+Deployment      █████░░░░
+```
+
+---
+
+## 🌱 problem solving
+
+```text
+→ consistent practice in data structures & algorithms  
+→ focus on patterns, not memorization  
+```
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ch4ru&bg_color=ffffff00&color=6B8F71&line=A3B18A&point=8FBC8F&area=true&hide_border=true" />
+  <a href="https://leetcode.com/u/charupathak/">
+    <img src="https://img.shields.io/badge/LeetCode-Explore%20Solutions-6B8F71?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
@@ -89,6 +196,14 @@ data analyst + ml practitioner
 <p align="center">
   <a href="https://www.linkedin.com/in/charupathak17/">
     <img src="https://img.shields.io/badge/LinkedIn-6B8F71?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:charupathak2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-A3B18A?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://leetcode.com/u/charupathak/">
+    <img src="https://img.shields.io/badge/LeetCode-8FBC8F?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
