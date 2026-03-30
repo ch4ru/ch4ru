@@ -1,6 +1,6 @@
 <!-- FOREST HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B8F71,100:A3B18A&height=200&section=header&text=Charu%20Pathak&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B8F71,100:A3B18A&height=200&section=header&text=Hey%2C%20I%27m%20Charu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <!-- SUBTITLE -->
@@ -153,7 +153,7 @@ data analyst + ml practitioner
 
 ---
 
-### 🧬 contribution snake (dramatic but effective)
+### 🧬 contribution snake 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
