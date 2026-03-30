@@ -28,12 +28,7 @@ data analyst + ml practitioner
 → built systems across NLP, recommendations, forecasting  
 → focus: turning raw data into usable decision systems  
 ```
----
 
-## 🌊 contribution activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ch4ru&bg_color=0d1117&color=8FBC8F&line=A3B18A&point=6B8F71&hide_border=true&cache_seconds=10" />
-</p>
 ---
 
 ## 🌿 how i work with data
@@ -187,6 +182,15 @@ Deployment      █████░░░░
   <a href="https://leetcode.com/u/charupathak/">
     <img src="https://img.shields.io/badge/LeetCode-Explore%20Solutions-6B8F71?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+</p>
+
+---
+
+
+## 🌊 activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ch4ru&theme=dark&hide_border=true&background=00000000&ring=8FBC8F&fire=A3B18A&currStreakLabel=8FBC8F" />
 </p>
 
 ---
