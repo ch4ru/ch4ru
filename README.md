@@ -14,28 +14,37 @@
 ```text
 data analyst + ml practitioner
 
-→ 800+ professionals mentored
-→ experience across NLP, recommendation systems, forecasting
-→ focused on building usable data systems
+→ mentored 800+ professionals in analytics & ML  
+→ built systems across NLP, recommendations, forecasting  
+→ focus: turning raw data into usable decision systems  
 ```
 
 ---
 
 ## 🌳 tech stack
 
+### 🍃 core
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,sql,git,github" />
 </p>
 
+### 🌿 data & ML
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-6B8F71?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-A3B18A?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-6B8F71?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-A3B18A?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-8FBC8F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-6B8F71?style=for-the-badge"/>
 </p>
 
+### 🍂 NLP & systems
+<p align="center">
+  <img src="https://img.shields.io/badge/HuggingFace-8FBC8F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sentence%20Transformers-6B8F71?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-A3B18A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-6B8F71?style=for-the-badge"/>
+</p>
+
+### 🌾 analytics & tools
 <p align="center">
   <img src="https://img.shields.io/badge/Tableau-6B8F71?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PowerBI-A3B18A?style=for-the-badge"/>
@@ -46,11 +55,16 @@ data analyst + ml practitioner
 
 ---
 
-## 🌊 contribution activity
+## 🌱 how i think about problems
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ch4ru&bg_color=ffffff00&color=6B8F71&line=A3B18A&point=8FBC8F&area=true&hide_border=true" />
-</p>
+```text
+1. understand the business problem (not just the data)
+2. clean + explore → find signal
+3. define what actually matters (metrics)
+4. build baseline first
+5. use ML only if it adds value
+6. deliver insight or system (preferably both)
+```
 
 ---
 
@@ -62,22 +76,10 @@ data analyst + ml practitioner
 
 ---
 
-## 📊 stats (stable version)
+## 🌊 contribution activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ch4ru&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ch4ru&layout=compact&hide_border=true" />
-</p>
-
----
-
-## 🌙
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ch4ru&bg_color=ffffff00&color=6B8F71&line=A3B18A&point=8FBC8F&area=true&hide_border=true" />
 </p>
 
 ---
